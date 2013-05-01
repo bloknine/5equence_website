@@ -31,6 +31,6 @@
 
     <title>5equence</title>
 </head>
-<body class="metrouicss" onload="prettyPrint()">
+<body class="metrouicss">
 
-<?php include("navigation.php")?>
+<?php /*include("navigation.php")*/ ?>
